@@ -6,6 +6,10 @@ This project aims to analyze vendor and brand-level performance using a retail d
 
 ---
 
+## Dashboard
+
+## ![alt text](images/Dashboard.png)
+
 ## Tools & Technologies Used
 
 - **Excel** – Initial data cleanup, pivot analysis
