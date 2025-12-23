@@ -288,7 +288,29 @@ Bottom vendors might be niche or premium suppliers, selling lower volumes but at
 
 ---
 
+## 🎯 Skills Demonstrated
+
+This project showcases:
+
+✅ **Data Cleaning** - Excel, Python (Pandas)  
+✅ **SQL Proficiency** - CTEs, Window Functions, Complex Joins  
+✅ **Statistical Analysis** - Confidence Intervals, Correlation Analysis  
+✅ **Data Visualization** - Matplotlib, Seaborn, Power BI  
+✅ **Business Acumen** - Translating data into actionable insights  
+✅ **Communication** - Clear documentation and visual storytelling
+
+---
+
 ## Author
 
 **Koustubhya Singh**  
-Aspiring Data Analyst
+Python Developer | Data Analyst
+
+- 🌐 Website: [databyks.online](https://databyks.online)
+- 💼 LinkedIn: [koustubhya-singh](https://linkedin.com/in/koustubhya-singh)
+- 📧 Email: singh10api@gmail.com
+- 🐙 GitHub: [@its-me-koustubhya](https://github.com/its-me-koustubhya)
+
+---
+
+⭐ **If this helped you, please star the repository!**
