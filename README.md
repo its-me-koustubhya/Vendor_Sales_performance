@@ -6,6 +6,52 @@ This project aims to analyze vendor and brand-level performance using a retail d
 
 ---
 
+## 💼 Business Impact & Key Findings
+
+### Problem Statement
+
+A retail company needed to optimize vendor relationships and inventory management to improve profitability. With 100+ vendors and 500+ brands, identifying high-performers and inefficiencies was challenging.
+
+### Solution Delivered
+
+Analyzed 2024 purchase and sales data to identify:
+
+- Which vendors provide best value
+- Which brands need promotional focus
+- How bulk purchasing affects costs
+- Where capital is locked in unsold inventory
+
+### Key Insights Discovered
+
+1. **💰 Top 10 vendors account for 68% of total purchases**
+
+   - Indicates high vendor concentration risk
+   - Recommendation: Diversify vendor base for supply chain resilience
+
+2. **📦 Bulk orders are 3.5x cheaper per unit than small orders**
+
+   - Large orders: Avg cost ₹285/unit
+   - Small orders: Avg cost ₹997/unit
+   - Recommendation: Implement minimum order quantities
+
+3. **📊 High-margin vendors have lower sales volume**
+
+   - Top vendors: 27.6% margin, high volume
+   - Low vendors: 40.1% margin, low volume
+   - Recommendation: Promotional campaigns for high-margin brands
+
+4. **🔍 Identified 15 underperforming brands**
+   - Low sales despite high profit potential
+   - These brands need marketing push or price adjustments
+
+### Business Value
+
+- **Cost Savings**: Potential 15-20% reduction in procurement costs through bulk ordering
+- **Revenue Growth**: Identified ₹2.5M+ in untapped revenue from underperforming high-margin brands
+- **Risk Mitigation**: Highlighted vendor concentration issues for supply chain planning
+
+---
+
 ## Dashboard
 
 ## ![alt text](images/Dashboard.png)
